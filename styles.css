@@ -1,0 +1,28 @@
+*{
+    background-color: rgba(11, 33, 100, 0.356);
+    margin: 5px;
+    padding: 0;
+}
+
+.section__bienvenida {
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+margin-left: 40px;
+text-align: center;
+}
+
+.section__bienvenida h1 {
+    text-align: left;
+}
+
+.section__bienvenida img {
+    width: 500px;
+    height: 500px;
+    border-radius: 20%; 
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.h2__textoBienvenida {
+    margin-left: 400px; 
+}
